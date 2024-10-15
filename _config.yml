@@ -7,7 +7,7 @@ title: QiLaiQiChuang
 description: 联系我们
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "qilaiqichuang.github.io"
+baseurl: "https://qilaiqichuang.github.io/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
